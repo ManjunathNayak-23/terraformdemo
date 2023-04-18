@@ -1,5 +1,5 @@
 terraform { 
-  backend "azure" {} 
+  backend "azurerm" {} 
   }
 
 # Configure the Azure Provider
